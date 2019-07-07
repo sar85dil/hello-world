@@ -10,5 +10,4 @@ Abcd1
 Cloud NAT - Network address translation
 access to server without external IP address.
 interconnect - Used to VPC of GCP . 
-
->>>>>>> master
+TODAY IS SUNDAY AND jULY 7TH 2019
